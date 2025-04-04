@@ -49,16 +49,16 @@ body {
     border-left: none;
     cursor: pointer;
 
-/*}*/
-/*#welcome>section>div>div:nth-child(1){*/
-/*    animation: scrollAnimation 1s linear infinite ;*/
-/*}*/
-/*#welcome>section>div>div:nth-child(2){*/
-/*    animation: scrollAnimation 2s linear 2s infinite ;*/
-/*}*/
-/*#welcome>section>div>div:nth-child(3){*/
-/*    animation: scrollAnimation 2s linear 3s infinite ;*/
-/*}*/
+}
+#welcome>section>div>div:nth-child(1){
+    animation: scrollAnimation 1s linear infinite ;
+}
+#welcome>section>div>div:nth-child(2){
+    animation: scrollAnimation 2s linear 2s infinite ;
+}
+#welcome>section>div>div:nth-child(3){
+    animation: scrollAnimation 2s linear 3s infinite ;
+}
 /* animations of welcome section */
 /*@keyframes scrollAnimation {*/
 /*    0%{*/
