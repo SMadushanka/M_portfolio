@@ -751,56 +751,56 @@ hero>section>img{
         height: 200px;
     }
 }
-/*@media all and (max-width:769px) {*/
-/*    html{*/
-/*        font-size: 80%;*/
-/*    }*/
-/*    hero>main>img{*/
-/*        width: 25%;*/
+@media all and (max-width:769px) {
+    html{
+        font-size: 80%;
+    }
+    hero>main>img{
+        width: 25%;
 
-/*    }*/
-/*    #aboutMe>section>img{*/
-/*        width: 38%;*/
-/*    }*/
-/*    #aboutMe>section{*/
-/*        padding: 10px;*/
-/*    }*/
-/*    #skill>section{*/
-/*        grid-template-columns: repeat(2,1fr);*/
-/*    }*/
-/*    #skill>section>div{*/
-/*        height: 80%;*/
-/*    }*/
-/*    #skill>section>div>div>button{*/
-/*        font-size: 0.8em;*/
-/*    }*/
-/*    #education>section>div{*/
-/*        font-size: 0.7rem;*/
-/*    }*/
-/*    #education>section>div:first-child{*/
-/*        font-size: 0.7rem;*/
-/*    }*/
-/*    #education>section>div:last-child{*/
-/*        font-size: 0.7rem;*/
-/*    }*/
-/*    #education>section{*/
-/*        padding-top: 50px;*/
-/*        margin-bottom: 15%;*/
-/*    }*/
-/*    #project>#wrapper>div{*/
-/*        height: 80%;*/
+    }
+    #aboutMe>section>img{
+        width: 38%;
+    }
+    #aboutMe>section{
+        padding: 10px;
+    }
+    #skill>section{
+        grid-template-columns: repeat(2,1fr);
+    }
+    #skill>section>div{
+        height: 80%;
+    }
+    #skill>section>div>div>button{
+        font-size: 0.8em;
+    }
+    #education>section>div{
+        font-size: 0.7rem;
+    }
+    #education>section>div:first-child{
+        font-size: 0.7rem;
+    }
+    #education>section>div:last-child{
+        font-size: 0.7rem;
+    }
+    #education>section{
+        padding-top: 50px;
+        margin-bottom: 15%;
+    }
+    #project>#wrapper>div{
+        height: 80%;
 
-/*    }*/
-/*    #project>#desc>h1{*/
-/*        font-size: 3rem;*/
-/*    }*/
-/*    #project>#desc>p{*/
-/*        font-size: 0.8rem;*/
-/*    }*/
-/*    #assignment>#wrapper>section>div{*/
-/*        min-width: 25%;*/
-/*    }*/
-/*}*/
+    }
+    #project>#desc>h1{
+        font-size: 3rem;
+    }
+    #project>#desc>p{
+        font-size: 0.8rem;
+    }
+    #assignment>#wrapper>section>div{
+        min-width: 25%;
+    }
+}
 /*@media all and (max-width:426px){*/
 /*    html{*/
 /*        font-size: 70%;*/
