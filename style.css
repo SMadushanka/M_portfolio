@@ -931,42 +931,42 @@ hero>section>img{
     }
 
 }
-/*@media all and (max-width:376px){*/
-/*    #education>section>div{*/
-/*        margin-top: 4%;*/
-/*        width: 200%;*/
-/*    }*/
-/*    #education>section>div:first-child{*/
-/*        left: 0;*/
-/*        width: 200%;*/
+@media all and (max-width:376px){
+    #education>section>div{
+        margin-top: 4%;
+        width: 200%;
+    }
+    #education>section>div:first-child{
+        left: 0;
+        width: 200%;
 
-/*    }*/
-/*    #education>section>div:last-child{*/
-/*        right: 0;*/
-/*        width: 200%;*/
-/*    }*/
-/*    #project>#desc{*/
-/*        width: 90%;*/
-/*    }*/
-/*    #project>#desc>button{*/
-/*        font-size: 0.6rem;*/
-/*        padding: 3px;*/
-/*    }*/
-/*    #assignment>#wrapper>section>div{*/
-/*        min-width: 65%;*/
-/*    }*/
-/*    #assignment #wrapper>.list>.box{*/
-/*        min-width:125px;*/
-/*        height: 180px;*/
-/*    }*/
-/*    #assignment #wrapper>button{*/
-/*        width: 25px;*/
-/*        height: 25px;*/
-/*        display: flex;*/
-/*        align-items: center;*/
-/*        justify-content: center;*/
-/*    }*/
-/*}*/
+    }
+    #education>section>div:last-child{
+        right: 0;
+        width: 200%;
+    }
+    #project>#desc{
+        width: 90%;
+    }
+    #project>#desc>button{
+        font-size: 0.6rem;
+        padding: 3px;
+    }
+    #assignment>#wrapper>section>div{
+        min-width: 65%;
+    }
+    #assignment #wrapper>.list>.box{
+        min-width:125px;
+        height: 180px;
+    }
+    #assignment #wrapper>button{
+        width: 25px;
+        height: 25px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
 /*@media all and (max-width:321px) {*/
 /*    html{*/
 /*        font-size: 60%;*/
