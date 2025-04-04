@@ -833,104 +833,104 @@ hero>section>img{
     hero>main>img{
         width: 35%;
     }
-/*    #aboutMe{*/
-/*        margin-top: 100px;*/
-/*    }*/
-/*    #aboutMe>section>img{*/
-/*        width: 60%;*/
-/*    }*/
-/*    #aboutMe>section{*/
-/*        width: 100%;*/
-/*        flex-direction: column-reverse;*/
-/*        justify-content: center;*/
-/*        align-items: center;*/
+    #aboutMe{
+        margin-top: 100px;
+    }
+    #aboutMe>section>img{
+        width: 60%;
+    }
+    #aboutMe>section{
+        width: 100%;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
 
-/*    }*/
-/*    #aboutMe>section>div{*/
-/*        padding: 10%;*/
-/*    }*/
-/*    #aboutMe>section>div>h1{*/
-/*        text-align: center;*/
-/*    }*/
-/*    #skill>section{*/
-/*        padding: 10%;*/
-/*        grid-template-columns: repeat(1,1fr);*/
-/*    }*/
-/*    #skill>section>div{*/
-/*        width: 85%;*/
-/*        margin: 10px;*/
-/*    }*/
-/*    #skill{*/
-/*        margin-top: 100px;*/
-/*    }*/
-/*    #skill>section>div>div>button{*/
-/*        font-size: 0.8em;*/
-/*    }*/
-/*    #education>section{*/
-/*        flex-direction: column;*/
-/*    }*/
-/*    #education>section>div{*/
-/*        margin-top: 4%;*/
-/*        width: 150%;*/
-/*    }*/
-/*    #education>section>div:first-child{*/
-/*        left: 0;*/
-/*        width: 150%;*/
+    }
+    #aboutMe>section>div{
+        padding: 10%;
+    }
+    #aboutMe>section>div>h1{
+        text-align: center;
+    }
+    #skill>section{
+        padding: 10%;
+        grid-template-columns: repeat(1,1fr);
+    }
+    #skill>section>div{
+        width: 85%;
+        margin: 10px;
+    }
+    #skill{
+        margin-top: 100px;
+    }
+    #skill>section>div>div>button{
+        font-size: 0.8em;
+    }
+    #education>section{
+        flex-direction: column;
+    }
+    #education>section>div{
+        margin-top: 4%;
+        width: 150%;
+    }
+    #education>section>div:first-child{
+        left: 0;
+        width: 150%;
 
-/*    }*/
-/*    #education>section>div:last-child{*/
-/*        right: 0;*/
-/*        width: 150%;*/
-/*    }*/
-/*    #education{*/
-/*        margin-top: 100%;*/
-/*    }*/
-/*    #project{*/
-/*        flex-direction: column;*/
-/*        justify-content: center;*/
-/*        align-items: center;*/
-/*    }*/
-/*    #project>#desc{*/
-/*        width: 90%;*/
-/*        font-size: 1.5rem;*/
-/*    }*/
-/*    #project>#desc>h1{*/
-/*        text-align: center;*/
-/*        font-size: 2rem;*/
-/*    }*/
-/*    #project>#wrapper{*/
-/*        width: 100%;*/
-/*        padding-left: 0;*/
+    }
+    #education>section>div:last-child{
+        right: 0;
+        width: 150%;
+    }
+    #education{
+        margin-top: 100%;
+    }
+    #project{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #project>#desc{
+        width: 90%;
+        font-size: 1.5rem;
+    }
+    #project>#desc>h1{
+        text-align: center;
+        font-size: 2rem;
+    }
+    #project>#wrapper{
+        width: 100%;
+        padding-left: 0;
 
 
-/*    }*/
-/*    #project>#desc>button{*/
-/*        padding: 4px;*/
-/*    }*/
-/*    #assignment #wrapper>.list>.box{*/
-/*        min-width:150px;*/
-/*        height: 200px;*/
-/*    }*/
-/*    #assignment #wrapper>button{*/
-/*        width: 40px;*/
-/*    }*/
-/*    #assignment #wrapper>button>img{*/
-/*        width: 20px;*/
-/*        height: 20px;*/
-/*    }*/
+    }
+    #project>#desc>button{
+        padding: 4px;
+    }
+    #assignment #wrapper>.list>.box{
+        min-width:150px;
+        height: 200px;
+    }
+    #assignment #wrapper>button{
+        width: 40px;
+    }
+    #assignment #wrapper>button>img{
+        width: 20px;
+        height: 20px;
+    }
 
-/*    .hireMe>section{*/
-/*        grid-template-columns: 1fr;*/
-/*    }*/
-/*    .hireMe>section #email{*/
-/*        margin: 0;*/
-/*        width: 92%;*/
-/*    }*/
-/*    .hireMe>section>#contact>div{*/
-/*        padding: 0.8em;*/
-/*    }*/
+    .hireMe>section{
+        grid-template-columns: 1fr;
+    }
+    .hireMe>section #email{
+        margin: 0;
+        width: 92%;
+    }
+    .hireMe>section>#contact>div{
+        padding: 0.8em;
+    }
 
-/*}*/
+}
 /*@media all and (max-width:376px){*/
 /*    #education>section>div{*/
 /*        margin-top: 4%;*/
