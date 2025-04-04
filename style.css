@@ -984,16 +984,16 @@ hero>section>img{
         right: 0;
         width: 200px;
     }
-    /*#assignment>#wrapper>section>div{*/
-    /*    min-width: 75%;*/
-    /*}*/
-    /*#assignment #wrapper>.list>.box{*/
-    /*    min-width:150px;*/
-    /*    height: 200px;*/
-    /*}*/
-    /*#assignment #wrapper>.list{*/
-    /*    min-width: 100%;*/
-    /*}*/
+    #assignment>#wrapper>section>div{
+        min-width: 75%;
+    }
+    #assignment #wrapper>.list>.box{
+        min-width:150px;
+        height: 200px;
+    }
+    #assignment #wrapper>.list{
+        min-width: 100%;
+    }
     /*.hireMe>section>div:nth-child(1)>form>div>button{*/
     /*    padding: 1%;*/
     /*    background-color:  rgb(38, 38, 38);*/
