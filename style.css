@@ -967,23 +967,23 @@ hero>section>img{
         justify-content: center;
     }
 }
-/*@media all and (max-width:321px) {*/
-/*    html{*/
-/*        font-size: 60%;*/
-/*    }*/
-/*    #education>section>div{*/
-/*        width: 200px;*/
-/*        margin-top: 20%;*/
-/*    }*/
-/*    #education>section>div:first-child{*/
-/*        left: 0;*/
-/*        width: 200px;*/
+@media all and (max-width:321px) {
+    html{
+        font-size: 60%;
+    }
+    #education>section>div{
+        width: 200px;
+        margin-top: 20%;
+    }
+    #education>section>div:first-child{
+        left: 0;
+        width: 200px;
 
-/*    }*/
-/*    #education>section>div:last-child{*/
-/*        right: 0;*/
-/*        width: 200px;*/
-/*    }*/
+    }
+    #education>section>div:last-child{
+        right: 0;
+        width: 200px;
+    }
     /*#assignment>#wrapper>section>div{*/
     /*    min-width: 75%;*/
     /*}*/
