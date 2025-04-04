@@ -994,13 +994,13 @@ hero>section>img{
     #assignment #wrapper>.list{
         min-width: 100%;
     }
-    /*.hireMe>section>div:nth-child(1)>form>div>button{*/
-    /*    padding: 1%;*/
-    /*    background-color:  rgb(38, 38, 38);*/
-    /*    border: 1px solid rgb(191, 191, 115);*/
-    /*    color: white;*/
-    /*    width: 70px;*/
-    /*    border-radius: 10px;*/
-    /*}*/
+    .hireMe>section>div:nth-child(1)>form>div>button{
+        padding: 1%;
+        background-color:  rgb(38, 38, 38);
+        border: 1px solid rgb(191, 191, 115);
+        color: white;
+        width: 70px;
+        border-radius: 10px;
+    }
 
 }
