@@ -700,57 +700,57 @@ hero>section>img{
     border-radius: 10px;
 
 }
-/*@media all and (max-width:1024px) {*/
-/*    html{*/
-/*        font-size: 90%;*/
-/*    }*/
-/*    hero>main{*/
+@media all and (max-width:1024px) {
+    html{
+        font-size: 90%;
+    }
+    hero>main{
 
-/*        height: 400px;*/
+        height: 400px;
 
-/*    }*/
-/*    #aboutMe>section>img{*/
-/*        width: 30%;*/
-/*    }*/
-/*    #skill>section{*/
-/*        grid-gap: 20px;*/
-/*    }*/
-/*    #skill>section>div{*/
-/*        height: 90%;*/
-/*    }*/
-/*    #education>section>div{*/
-/*        font-size: 0.8rem;*/
-/*    }*/
-/*    #education>section>div:first-child{*/
-/*        width: 30%;*/
-/*    }*/
-/*    #education>section>div:last-child{*/
-/*        width: 30%;*/
-/*    }*/
-/*    #project>#wrapper>div{*/
-/*        height: 100%;*/
-/*    }*/
-/*    #project>#wrapper>div>button{*/
-/*        font-size: 0.7rem;*/
-/*    }*/
-/*    #assignment>#wrapper>section>div{*/
-/*        min-width: 20%;*/
-/*    }*/
-/*    .hireMe>section>div:nth-child(1)>form>div>input{*/
-/*        height: 30px;*/
+    }
+    #aboutMe>section>img{
+        width: 30%;
+    }
+    #skill>section{
+        grid-gap: 20px;
+    }
+    #skill>section>div{
+        height: 90%;
+    }
+    #education>section>div{
+        font-size: 0.8rem;
+    }
+    #education>section>div:first-child{
+        width: 30%;
+    }
+    #education>section>div:last-child{
+        width: 30%;
+    }
+    #project>#wrapper>div{
+        height: 100%;
+    }
+    #project>#wrapper>div>button{
+        font-size: 0.7rem;
+    }
+    #assignment>#wrapper>section>div{
+        min-width: 20%;
+    }
+    .hireMe>section>div:nth-child(1)>form>div>input{
+        height: 30px;
 
-/*    }*/
-/*    .hireMe>section>div:nth-child(1)>form>div>button{*/
-/*        padding: 0.8%;*/
-/*    }*/
-/*    .hireMe>section>div:nth-child(1)>form>div>textarea{*/
-/*        height: 100px;*/
-/*    }*/
-/*    #assignment #wrapper>.list>.box{*/
-/*        min-width:150px;*/
-/*        height: 200px;*/
-/*    }*/
-/*}*/
+    }
+    .hireMe>section>div:nth-child(1)>form>div>button{
+        padding: 0.8%;
+    }
+    .hireMe>section>div:nth-child(1)>form>div>textarea{
+        height: 100px;
+    }
+    #assignment #wrapper>.list>.box{
+        min-width:150px;
+        height: 200px;
+    }
+}
 /*@media all and (max-width:769px) {*/
 /*    html{*/
 /*        font-size: 80%;*/
