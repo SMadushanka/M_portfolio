@@ -389,91 +389,91 @@ hero>section>img{
     padding: 20px;
     background-size: cover;
 }
-/*#project{*/
-/*    display: flex;*/
-/*    padding: 15%;*/
-/*    padding-top: 0;*/
-/*}*/
-/*#project>#desc{*/
-/*    width: 40%;*/
-/*}*/
-/*#project>#wrapper1{*/
-/*    width: 60%;*/
-/*    display: flex;*/
-/*    overflow-x: auto;*/
-/*    overflow-y: hidden;*/
-/*    padding:10px;*/
-/*}*/
-/*#project>#wrapper1::-webkit-scrollbar{*/
-/*    width: 0;*/
-/*}*/
-/*#project>#wrapper1>div{*/
-/*    border-radius: 20px;*/
-/*    min-width: 40%;*/
-/*    height: 250px;*/
-/*    margin-left: 15px;*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    position: relative;*/
+#project{
+    display: flex;
+    padding: 15%;
+    padding-top: 0;
+}
+#project>#desc{
+    width: 40%;
+}
+#project>#wrapper1{
+    width: 60%;
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding:10px;
+}
+#project>#wrapper1::-webkit-scrollbar{
+    width: 0;
+}
+#project>#wrapper1>div{
+    border-radius: 20px;
+    min-width: 40%;
+    height: 250px;
+    margin-left: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    background-color:rgb(45, 45, 45);
+    position: relative;
 
-/*}*/
-/*#project span{*/
-/*    color: rgb(191, 191, 115);*/
-/*}*/
-/*#project h1{*/
-/*    margin-top: 4%;*/
-/*    font-size: 2rem;*/
+}
+#project span{
+    color: rgb(191, 191, 115);
+}
+#project h1{
+    margin-top: 4%;
+    font-size: 2rem;
 
-/*}*/
-/*#project>#desc>p>span{*/
-/*    font-weight: bold;*/
-/*}*/
-/*#project>#wrapper1>div>h5{*/
-/*    text-align: center;*/
-/*    color: white;*/
-/*    font-weight: 100;*/
-/*}*/
-/*#project>#desc>button{*/
-/*    background-color: #15181a;*/
-/*    border:1px solid rgb(191, 191, 115);*/
-/*    color: white;*/
-/*    padding: 7px;*/
-/*    border-radius: 10px;*/
-/*    font-size: 0.8rem;*/
-/*    font-weight: 500;*/
-/*    margin-top: 1%;*/
-/*}*/
-/*#project>#desc>button:hover{*/
-/*    background-color: rgb(191, 191, 115);*/
-/*    color: black;*/
-/*    border: 1px #15181a solid;*/
-/*    cursor: pointer;*/
-/*}*/
-/*#project>#wrapper1>div>img{*/
-/*    width: 100%;*/
-/*    opacity: 0.4;*/
-/*}*/
-/*#project>#wrapper1>div>button{*/
-/*    position: absolute;*/
-/*    left: 0;*/
-/*    right: 0;*/
-/*    top: 0;*/
-/*    bottom: 0;*/
-/*    margin: auto;*/
-/*    width: 40%;*/
-/*    height: fit-content;*/
-/*    padding: 2%;*/
-/*    background-color: #15181a;*/
-/*    border: 1px solid rgb(191, 191, 115);*/
-/*    color: white;*/
-/*    border-radius: 10px;*/
-/*}*/
-/*#project>#wrapper1>div:hover{*/
-/*    scale: 1.1;*/
-/*}*/
-/*#project>#wrapper1>div>img:hover{*/
-/*    opacity: 1;*/
-/*}*/
+}
+#project>#desc>p>span{
+    font-weight: bold;
+}
+#project>#wrapper1>div>h5{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+}
+#project>#desc>button{
+    background-color: #15181a;
+    border:1px solid rgb(191, 191, 115);
+    color: white;
+    padding: 7px;
+    border-radius: 10px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    margin-top: 1%;
+}
+#project>#desc>button:hover{
+    background-color: rgb(191, 191, 115);
+    color: black;
+    border: 1px #15181a solid;
+    cursor: pointer;
+}
+#project>#wrapper1>div>img{
+    width: 100%;
+    opacity: 0.4;
+}
+#project>#wrapper1>div>button{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 40%;
+    height: fit-content;
+    padding: 2%;
+    background-color: #15181a;
+    border: 1px solid rgb(191, 191, 115);
+    color: white;
+    border-radius: 10px;
+}
+#project>#wrapper1>div:hover{
+    scale: 1.1;
+}
+#project>#wrapper1>div>img:hover{
+    opacity: 1;
+}
 /*#assignment>h1{*/
 /*    text-align: center;*/
 /*}*/
