@@ -613,93 +613,93 @@ hero>section>img{
 
 }
 
-/*.hireMe>h1:first-child{*/
-/*    color: rgb(191, 191, 115);*/
-/*    font-size: 1.3rem;*/
+.hireMe>h1:first-child{
+    color: rgb(191, 191, 115);
+    font-size: 1.3rem;
 
-/*}*/
-/*.hireMe>h1:nth-child(2){*/
-/*    font-size: 2.4rem;*/
-
-
-/*}*/
-/*.hireMe>h1{*/
-/*    text-align: center;*/
-/*}*/
-/*.hireMe>section{*/
-/*    display: grid;*/
-/*    grid-template-columns: repeat(2,1fr);*/
-/*    align-items: center;*/
-/*    justify-content: start;*/
+}
+.hireMe>h1:nth-child(2){
+    font-size: 2.4rem;
 
 
-/*}*/
-/*.hireMe>section>#contact>div{*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    padding: 1em;*/
-/*    margin:10px;*/
-/*    border-radius: 12px ;*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*}*/
-/*.hireMe>section>#contact>div>div{*/
-/*    display: flex;*/
-/*    align-items: start;*/
-/*    justify-content: start;*/
-/*    font-size: 1.2rem;*/
-/*}*/
-/*.hireMe>section>#contact>div>div:nth-child(2)>a{*/
-/*    color: white;*/
+}
+.hireMe>h1{
+    text-align: center;
+}
+.hireMe>section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    justify-content: start;
 
-/*}*/
-/*.hireMe>section>#contact>div>div img{*/
-/*    width: 30px;*/
-/*    height: 30px;*/
-/*}*/
-/*.hireMe>section>#email>form>div>input{*/
-/*    width: 100%;*/
-/*    height: 30px;*/
-/*    border-radius: 10px;*/
-/*    border: 1px solid rgb(191, 191, 115);*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    color: white;*/
-/*}*/
-/*.hireMe>section>#email>form>div>textarea{*/
-/*    width: 100%;*/
-/*    height: 100px;*/
-/*    border-radius: 10px;*/
-/*    border: 1px solid rgb(191, 191, 115);*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    color: white;*/
-/*}*/
-/*.hireMe>section>#email>form{*/
-/*    width: 90%;*/
-/*    padding: 5%;*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*    margin: 10px;*/
-/*    border-radius: 10px;*/
-/*}*/
-/*.hireMe{*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    justify-content: center;*/
-/*    flex-direction: column;*/
-/*}*/
-/*.hireMe>section{*/
-/*    padding: 10%;*/
-/*    padding-top: 5%;*/
-/*}*/
-/*.hireMe>section>#email>form button{*/
-/*    padding: 2%;*/
-/*    background-color: rgb(45, 45, 45);*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*    color: white;*/
-/*    border: 1px solid rgb(191, 191, 115);*/
-/*    border-radius: 10px;*/
 
-/*}*/
+}
+.hireMe>section>#contact>div{
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    margin:10px;
+    border-radius: 12px ;
+    background-color:rgb(45, 45, 45);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.hireMe>section>#contact>div>div{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    font-size: 1.2rem;
+}
+.hireMe>section>#contact>div>div:nth-child(2)>a{
+    color: white;
+
+}
+.hireMe>section>#contact>div>div img{
+    width: 30px;
+    height: 30px;
+}
+.hireMe>section>#email>form>div>input{
+    width: 100%;
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(191, 191, 115);
+    background-color:rgb(45, 45, 45);
+    color: white;
+}
+.hireMe>section>#email>form>div>textarea{
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px solid rgb(191, 191, 115);
+    background-color:rgb(45, 45, 45);
+    color: white;
+}
+.hireMe>section>#email>form{
+    width: 90%;
+    padding: 5%;
+    background-color:rgb(45, 45, 45);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.hireMe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.hireMe>section{
+    padding: 10%;
+    padding-top: 5%;
+}
+.hireMe>section>#email>form button{
+    padding: 2%;
+    background-color: rgb(45, 45, 45);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    color: white;
+    border: 1px solid rgb(191, 191, 115);
+    border-radius: 10px;
+
+}
 /*@media all and (max-width:1024px) {*/
 /*    html{*/
 /*        font-size: 90%;*/
