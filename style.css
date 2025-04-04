@@ -316,79 +316,79 @@ hero>section>img{
     opacity: 1;
     visibility: visible;
 }
-/*#education>section{*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    padding:150px;*/
-/*    padding-bottom: 0;*/
-/*    margin-bottom: 200px;*/
+#education>section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:150px;
+    padding-bottom: 0;
+    margin-bottom: 200px;
 
-/*}*/
-/*#education>section>div{*/
-/*    width: 30%;*/
-/*    height: 500px;*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*    border-radius: 10px;*/
-/*    z-index: 2;*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    height: fit-content;*/
-/*    padding: 20px;*/
-/*    background-size: cover;*/
-/*}*/
+}
+#education>section>div{
+    width: 30%;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+    z-index: 2;
+    background-color:rgb(45, 45, 45);
+    height: fit-content;
+    padding: 20px;
+    background-size: cover;
+}
 
-/*#education>section>div>i{*/
-/*    color: rgb(191, 191, 115);*/
-/*}*/
-/*#education>section>div:nth-child(1){*/
-/*    font-size: 0.9rem;*/
-/*    width: 20%;*/
-/*    height: fit-content;*/
-/*    position: relative;*/
-/*    left: 20px;*/
-/*    z-index: 1;*/
-/*}*/
-/*#education>section>div:nth-child(3){*/
-/*    width: 20%;*/
-/*    height: fit-content;*/
-/*    position: relative;*/
-/*    right: 20px;*/
-/*    z-index: 1;*/
-/*    font-size: 0.9rem;*/
-/*}*/
-/*#education>h1{*/
-/*    text-align: center;*/
+#education>section>div>i{
+    color: rgb(191, 191, 115);
+}
+#education>section>div:nth-child(1){
+    font-size: 0.9rem;
+    width: 20%;
+    height: fit-content;
+    position: relative;
+    left: 20px;
+    z-index: 1;
+}
+#education>section>div:nth-child(3){
+    width: 20%;
+    height: fit-content;
+    position: relative;
+    right: 20px;
+    z-index: 1;
+    font-size: 0.9rem;
+}
+#education>h1{
+    text-align: center;
 
-/*}*/
-/*#education>h1>span{*/
-/*    color: rgb(191, 191, 115);*/
-/*}*/
-/*#education>section>div>h3{*/
-/*    color: rgb(191, 191, 115);*/
-/*}*/
-/*#education>section>div:hover{*/
-/*    scale: 1.5;*/
-/*    z-index: 3;*/
-/*}*/
-/*#education>section{*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
-/*    padding:150px;*/
-/*    padding-bottom: 0;*/
-/*    margin-bottom: 200px;*/
-/*}*/
-/*#education>section>div{*/
-/*    width: 30%;*/
-/*    height: 500px;*/
-/*    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;*/
-/*    border-radius: 10px;*/
-/*    z-index: 2;*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    height: fit-content;*/
-/*    padding: 20px;*/
-/*    background-size: cover;*/
-/*}*/
+}
+#education>h1>span{
+    color: rgb(191, 191, 115);
+}
+#education>section>div>h3{
+    color: rgb(191, 191, 115);
+}
+#education>section>div:hover{
+    scale: 1.5;
+    z-index: 3;
+}
+#education>section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:150px;
+    padding-bottom: 0;
+    margin-bottom: 200px;
+}
+#education>section>div{
+    width: 30%;
+    height: 500px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+    z-index: 2;
+    background-color:rgb(45, 45, 45);
+    height: fit-content;
+    padding: 20px;
+    background-size: cover;
+}
 /*#project{*/
 /*    display: flex;*/
 /*    padding: 15%;*/
