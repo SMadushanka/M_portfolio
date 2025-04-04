@@ -255,67 +255,67 @@ hero>section>img{
     animation: ani 0.6s;
 
 }
-/*@keyframes ani {*/
-/*    0%{*/
-/*        translate: 0 100% 0;*/
-/*        opacity: 0;*/
-/*    }*/
-/*    25%{*/
-/*        translate: 0 75% 0;*/
-/*        opacity: 0;*/
-/*    }*/
-/*    50%{*/
-/*        translate: 0 50% 0;*/
-/*        opacity: 0;*/
-/*    }*/
-/*    75%{*/
-/*        translate: 0 25% 0;*/
-/*        opacity: 0;*/
-/*    }*/
-/*    100%{*/
-/*        translate: 0 0 0;*/
-/*        opacity: 1;*/
-/*    }*/
-/*}*/
-/*#skill>section>div{*/
-/*    padding: 5%;*/
-/*    text-align: center;*/
-/*    display: flex;*/
-/*    flex-direction: column;*/
-/*    justify-content: center;*/
-/*    align-items: center;*/
+@keyframes ani {
+    0%{
+        translate: 0 100% 0;
+        opacity: 0;
+    }
+    25%{
+        translate: 0 75% 0;
+        opacity: 0;
+    }
+    50%{
+        translate: 0 50% 0;
+        opacity: 0;
+    }
+    75%{
+        translate: 0 25% 0;
+        opacity: 0;
+    }
+    100%{
+        translate: 0 0 0;
+        opacity: 1;
+    }
+}
+#skill>section>div{
+    padding: 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
-/*}*/
+}
 
-/*#skill>section>div>div>button{*/
-/*    background-color:rgb(45, 45, 45);*/
-/*    color: white;*/
-/*    border: 1px solid rgb(191, 191, 115);*/
-/*    padding: 5px;*/
-/*    border-radius: 10px;*/
+#skill>section>div>div>button{
+    background-color:rgb(45, 45, 45);
+    color: white;
+    border: 1px solid rgb(191, 191, 115);
+    padding: 5px;
+    border-radius: 10px;
 
-/*}*/
+}
 
-/*#skill .technologies{*/
-/*    width: 100%;*/
-/*    height: 100%;*/
-/*    display: flex;*/
-/*    align-items: center;*/
-/*    justify-content: center;*/
-/*    position: absolute;*/
-/*    font-weight: 500;*/
+#skill .technologies{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-weight: 500;
 
-/*}*/
-/*#skill .technologies>div{*/
-/*    margin: 10px;*/
-/*    opacity: 0;*/
-/*    visibility: hidden;*/
+}
+#skill .technologies>div{
+    margin: 10px;
+    opacity: 0;
+    visibility: hidden;
 
-/*}*/
-/*.technologies:hover>div{*/
-/*    opacity: 1;*/
-/*    visibility: visible;*/
-/*}*/
+}
+.technologies:hover>div{
+    opacity: 1;
+    visibility: visible;
+}
 /*#education>section{*/
 /*    display: flex;*/
 /*    justify-content: center;*/
